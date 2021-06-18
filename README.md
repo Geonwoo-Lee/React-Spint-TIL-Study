@@ -40,6 +40,7 @@
  ### 🗓 Weekly Study Schedule
  - Mon - Fri 주차별로 정한 주제에대한 공부 & 공부기록
  - Fri 스터디 회의
+ - Start 2021 06 14 ~
 
 
 
