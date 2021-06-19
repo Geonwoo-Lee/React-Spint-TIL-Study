@@ -37,7 +37,7 @@ function solution(arr){
   return arrSum / arr.length
 }
 ```
-
+ 
 ###비고 
 - 프로그래머스 1단계 문제 완료
 - 애플코딩 강의 시청
