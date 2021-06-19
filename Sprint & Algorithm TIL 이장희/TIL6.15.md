@@ -82,6 +82,6 @@ function solution(n, m) {
   }
     //배열안에 최대 공약수와 최대 공배수 넣어서 리턴하기 
   return [gcd(n, m), lcm(n, m)];
-}
+}  
 
 ```
