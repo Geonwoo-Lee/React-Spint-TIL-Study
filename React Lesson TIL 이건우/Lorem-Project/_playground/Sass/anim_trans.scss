@@ -1,0 +1,35 @@
+.btn{//기본상태
+    font-size: 30px;
+    text-decoration: none;
+    transition: all 0.5s; //all은 hover에 있는 값 전체 만약 내가 하고싶은게 있으면 그 값만 넣어주면됨
+    &:hover{//마우스가 올라갔을때
+        font-size: 50px;
+        text-decoration: underline;
+        opacity: 0.2;//투명도 1이 완전체
+    }
+}
+
+
+
+//Animation
+//@로 시작 css에서 제공하는 애니메이션 기능
+@keyframes anim1 {//시간에 대한 %로 기술 내가 준 시간 5초를 주면 0% = 0초 100% = 5초
+    0%{
+        opacity: 0.2;
+        transform: translate(100px, -30px);//위치를 바꾸는거나 크기를 바꿈, 요소 위치가 0,0 x 는 좌우 y는 위아래 윗쪽이 - 아랫쪽이 +
+    }
+    50%{
+        opacity: 1;
+    }
+    100%{
+        opacity: .1;
+    }
+}
+
+#box1{
+    animation-name: anim1;//주고싶은 애니메이션 이름
+    animation-duration: 1s;//애니메이션을 줄 시간
+    animation-fill-mode: backwards; //마지막 상태로 남기기 = forward backwords = 딜레이가 지정 됐을때 처음 상태로 시작하게 되는것 딜레이 되는 시간동안 처음상태를 유지 both는 둘다 
+    animation-iteration-count: 3; //반복 횟수
+    animation-delay: 3s; //애니메이션이 몇초 뒤에 실행 될지 정하는거
+}

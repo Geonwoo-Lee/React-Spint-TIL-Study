@@ -1,0 +1,38 @@
+#box1{
+    width: 30em;
+    background-color: #aaa;
+    font-size: 30px;
+}
+
+#box2{
+
+    width: 30em;
+    background-color: #777;
+    font-size: 50px;
+}
+
+#box3{
+
+    width: 100vw;
+    height: 50vh;
+    background-color: #f00;
+    font-size: 10px;
+}
+#box4{
+
+    width: 30rem;
+    background-color: #f0f0f0;
+    font-size: 60px;
+}
+#box5{
+
+    width: 30em;
+    background-color: #fefefe;
+    font-size: 80px;
+}
+//기본 브라우저 fontsize는 16px 임 
+// em : 해당 요소의 지정된 폰트 사이즈가 1em if fontsize가 20 이면 => 1em => 20px   박스크기 비교 해보기
+// rem 10px이 1 rem임 html 기본 폰트사이즈가 30px이어서임 최상위 rem으로 단위를 주면 나중에 모바일이나 데크스탑에서 유동적으로 바꿔줄 수 있다 px주면 일일이 다 바꿔줘여하지만 rem으로 주면 html fontsize만 바꾸면 전체가 다 바뀐다 
+// vw  옆으로 퍼센트
+// vh  위아래로 퍼센트
+// px:절대적인크기

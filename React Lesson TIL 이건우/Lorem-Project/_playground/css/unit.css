@@ -1,0 +1,31 @@
+#box1 {
+  width: 30em;
+  background-color: #aaa;
+  font-size: 30px;
+}
+
+#box2 {
+  width: 30em;
+  background-color: #777;
+  font-size: 50px;
+}
+
+#box3 {
+  width: 100vw;
+  height: 50vh;
+  background-color: #f00;
+  font-size: 10px;
+}
+
+#box4 {
+  width: 30rem;
+  background-color: #f0f0f0;
+  font-size: 60px;
+}
+
+#box5 {
+  width: 30em;
+  background-color: #fefefe;
+  font-size: 80px;
+}
+/*# sourceMappingURL=unit.css.map */
