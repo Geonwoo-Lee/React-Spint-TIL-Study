@@ -1,0 +1,20 @@
+//구글폰트
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,100&family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; //보더 박스를 쓰면 모든 요소의 padding에 border와 이런것들이 다 포함이 된다
+}
+
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+    padding: 3rem;
+}
+
+html{
+    font-size: 62.5%; //16px의 62.5% = 10 px = 1 rem
+}

@@ -1,0 +1,36 @@
+@import "../color/mixin";
+
+footer{
+    background-color: #3f4a56;
+    color: #fff;
+    padding: 7rem 5rem 3rem 7rem;
+
+    @include clearMix();
+
+    .footer-logo{
+      width: 25%;
+      float: left;
+      font-size: 4rem;
+      font-family: 'lato', sans-serif;
+      font-weight: 100;
+      text-transform: uppercase;
+    }
+
+    .copyright{
+      width: 75%;
+      float: left;
+      font-size: 1.2rem;
+
+      p:first-child{
+        margin-bottom: 2rem;
+        word-break: break-all; //단어길어도 이어서 줄바꿈
+        text-align: justify;
+        column-count: 3;
+        column-gap: 3rem;
+        column-rule-style: solid;
+        column-rule-width: .1rem;
+        column-width: 1rem;
+      }
+    }
+
+}
