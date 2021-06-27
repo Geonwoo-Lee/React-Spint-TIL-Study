@@ -1,7 +1,0 @@
-@mixin clearMix {
-    &::after{
-        content: '';
-        display: block;
-        clear: both;
-    }
-}
