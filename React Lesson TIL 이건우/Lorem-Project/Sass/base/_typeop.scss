@@ -1,0 +1,33 @@
+h2{
+    padding: 1rem 0;
+    font-size: 2.4rem;
+    font-weight: 800;
+    text-transform: uppercase;
+//---------------------------------------------
+    //텍스트 그라데이션 널기 
+    background: linear-gradient(left,
+     $color-bluestart, $color-blueend);
+
+     -webkit-background-clip: text; //텍스트 부분에만 마스킹
+     -webkit-text-fill-color: transparent; //기본텍스트 칼라 없애기
+
+
+//--------------------------------------------
+     transition: all .5s;
+
+
+     &:hover{
+         padding-left: 1.5rem;
+     }
+
+     //트렌지션을 사용해서 스무스하게 호버되게 만드는 기능
+}
+
+
+h3{
+    padding: .5rem;
+    color: $color-dark-gray;
+    font-size: 1.6rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
