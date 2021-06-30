@@ -39,9 +39,20 @@
 
 
  ### 🗓 Weekly Study Schedule
- - Mon - Fri 주차별로 정한 주제에대한 공부 & 공부기록
- - Fri 스터디 회의
  - Start 2021 06 14 ~
+
+ * Sprint 3주차 Schedule
+ 
+ 
+| 요일 | 일정 | 참여자 | 주차 |
+|---|---|---|---|
+| 월 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우 | 3 |
+| 화 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우 | - |
+| 수 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우 | -  |
+| 목 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우 | -  |
+| 금 | 스터디 회의 | 이건우, 이장희, 김동우 |  - |
+| 토 | Sprint 발표 | 이건우, 이장희, 김동우 | -  |
+| 일 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우 | -  |
 
 
 
