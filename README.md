@@ -55,6 +55,9 @@
 | 일 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | -  |
 
 
+
+* Sprint 4주차 Schedule
+
 | 요일 | 일정 | 참여자 | 시간 |  주차  |
 |---|---|---|---|---|
 | 월 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | 4 |
