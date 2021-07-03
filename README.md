@@ -55,6 +55,17 @@
 | 일 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | -  |
 
 
+| 요일 | 일정 | 참여자 | 시간 |  주차  |
+|---|---|---|---|---|
+| 월 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | 4 |
+| 화 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
+| 수 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | -  |
+| 목 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | -  |
+| 금 | 스터디 회의 및 Sprint 설명회 | 이건우, 이장희, 김동우| Sprint 이후 저녁 |  - |
+| 토 | HA 공부 | 이건우, 이장희, 김동우| 자율 | -  |
+| 일 | HA 공부 | 이건우, 이장희, 김동우| 자율 | -  |
+
+
 
 ### ➣ How are we studying? ❓
 
