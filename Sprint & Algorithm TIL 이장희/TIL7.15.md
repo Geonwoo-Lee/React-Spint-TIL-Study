@@ -179,7 +179,7 @@ default parameter는 자바스크립트에서 추가된 ES6 신문법입니다. 
 function add(a, b=5){
     console.log(a+b)
 }
-add(1)    //6
+add(1)   //6
 
 // 생략을 안하면 인자값을 우선으로 합니다
 function add(a, b=5){
