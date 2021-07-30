@@ -94,6 +94,17 @@
 | 토 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
 | 일 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
 
+* Sprint 8주차 Schedule
+
+| 요일 | 일정 | 참여자 | 시간 |  주차  |
+|---|---|---|---|---|
+| 월 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | 8 |
+| 화 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
+| 수 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
+| 목 | 스터디 회의 | 이건우, 이장희, 김동우| 미정 | - |
+| 금 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 미정 | - |
+| 토 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
+| 일 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
 * Sprint 7주차 Schedule
 
 | 요일 | 일정 | 참여자 | 시간 |  주차  |
@@ -101,8 +112,8 @@
 | 월 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | 7 |
 | 화 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
 | 수 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
-| 목 | 스터디 회의 | 이건우, 이장희, 김동우| 미정 | - |
-| 금 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 미정 | - |
+| 목 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 미정 | - |
+| 금 |스터디 회의 | 이건우, 이장희, 김동우 | 이건우, 이장희, 김동우| 미정 | - |
 | 토 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
 | 일 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
 
