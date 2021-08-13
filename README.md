@@ -118,6 +118,19 @@
 | 토 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
 | 일 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
 
+* Sprint 9주차 Schedule
+
+| 요일 | 일정 | 참여자 | 시간 |  주차  |
+|---|---|---|---|---|
+| 월 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | 9 |
+| 화 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
+| 수 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
+| 목 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
+| 금 | 스터디 회의 | 이건우, 이장희, 김동우| 미정 | - |
+| 토 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
+| 일 | TIL, Sprint, React, Algorithm | 이건우, 이장희, 김동우| 자율 | - |
+
+
 
 
 ### ➣ How are we studying? ❓
